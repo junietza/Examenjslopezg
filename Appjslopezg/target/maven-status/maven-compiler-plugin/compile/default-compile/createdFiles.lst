@@ -1,0 +1,10 @@
+Model\Email.class
+TableModel\EmailTableModel.class
+TableModel\PhoneTableModel.class
+Model\Address.class
+Model\Contact.class
+Views\ContactFrame.class
+Model\Phone.class
+TableModel\AddressTableModel.class
+Views\MainFrame.class
+Views\MainFrame$1.class
